@@ -1,0 +1,24 @@
+/* styles.css */
+
+body {
+    background-color: #f0f0f0; /* Light grey background for the entire page */
+    font-family: 'Garamond'; /* Set the font for the entire page */
+}
+
+div {
+    background-color: #f0f0f0; 
+}
+
+button, input {
+    background-color: #ffffff; /* White background for buttons and input elements */
+    color: #333333; /* Dark grey text color for buttons and input elements */
+    font-family: 'Garamond';
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin: 5px 0;
+}
+
+label {
+    font-weight: bold;
+}
